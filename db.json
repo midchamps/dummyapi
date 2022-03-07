@@ -1,0 +1,26 @@
+{
+  "nickname": {
+    "is_exist": false, 
+    "nickname": "nickname"
+  }, 
+  "signin": {
+    "code": 200, 
+    "message": "ok", 
+    "data": {
+      "login_method": "kakao", 
+      "agree_policy": true, 
+      "agree_marketing": true, 
+      "agree_location": true, 
+      "profile": "https://picsum.photos/200", 
+      "nickname": "nickname", 
+      "is_student": true, 
+      "school": "대천중학교", 
+      "grade": 3, 
+      "address": "판교역로 235", 
+      "address_desc": "상세주소", 
+      "device": "Apple iPhone SE2", 
+      "platform": "ios", 
+      "os": "ios 15.3.1"
+    }
+  }
+}
