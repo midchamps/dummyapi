@@ -1,5 +1,5 @@
 # dummyapi
-dummy api server
+dummy api server for testing
 https://my-json-server.typicode.com/midchamps/dummyapi
 
 - nickname check
